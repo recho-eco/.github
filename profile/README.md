@@ -14,6 +14,9 @@
 
 ### 리펙토링
 에러 메시지 관리
+
+ [📒 Discussion 바로가기](https://github.com/orgs/recho-eco/discussions)  
+
 <!--
 
 **Here are some ideas to get you started:**
